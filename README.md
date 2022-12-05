@@ -1,6 +1,10 @@
 # ArchitectNow.Framework
 + .NET Core 5.0
-+ Serilog
++ ASP.NET Core
 + AutoMapper
-+ MongoDB
 + AutoFac
++ Hangfire
++ MongoDB
++ NSwag and 
++ Redis
++ Serilog
